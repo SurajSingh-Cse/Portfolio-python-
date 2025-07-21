@@ -64,3 +64,32 @@ The dataset contains transaction-level details such as:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SurajSingh-Cse/Portfolio-python.git
+
+2. Install required libraries:
+```
+ pip install pandas matplotlib seaborn numpy
+  ``` 
+3. Run the notebook:
+```
+
+jupyter notebook portfolio.ipynb
+
+```
+
+## 📂 Files in Repo
+```
+| File Name                         | Description                     |
+| --------------------------------- | ------------------------------- |
+| `New_Year_Sales_Analysis.ipynb`   | Main Python analysis notebook   |
+| `New_Year_Sales_Data.csv`         | Raw data (original)             |
+| `Cleaned_New_Year_Sales_Data.csv` | Cleaned version of the dataset  |
+| `README.md`                       | Project overview & instructions |
+
+```
+
+## 📬 Contact
+   "Suraj Singh"
+🔗 LinkedIn Profile: "(www.linkedin.com/in/singh-suraj-negi)"
+📫 Email: "surajsinghnegi654@gmail.com"
+
+
