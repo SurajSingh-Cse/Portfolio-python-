@@ -1,4 +1,4 @@
-# 🛍️ New Year Sales Analysis Project
+# 🛍️porfolio Project
 
 This project focuses on analyzing customer purchase behavior from a retail dataset during a New Year sales period. It includes end-to-end data analysis, visualizations, and insights to help businesses understand consumer trends and optimize marketing strategies.
 
