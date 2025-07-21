@@ -80,7 +80,7 @@ jupyter notebook portfolio.ipynb
 ```
 | File Name                         | Description                     |
 | --------------------------------- | ------------------------------- |
-| `New_Year_Sales_Analysis.ipynb`   | Main Python analysis notebook   |
+| `portfolio.ipynb`                 | Main Python analysis notebook   |
 | `New_Year_Sales_Data.csv`         | Raw data (original)             |
 | `Cleaned_New_Year_Sales_Data.csv` | Cleaned version of the dataset  |
 | `README.md`                       | Project overview & instructions |
@@ -89,7 +89,9 @@ jupyter notebook portfolio.ipynb
 
 ## 📬 Contact
    "Suraj Singh"
-🔗 LinkedIn Profile: "(www.linkedin.com/in/singh-suraj-negi)"
-📫 Email: "surajsinghnegi654@gmail.com"
+   
+"🔗 LinkedIn Profile: (www.linkedin.com/in/singh-suraj-negi)"
+
+"📫 Email: "surajsinghnegi654@gmail.com"
 
 
